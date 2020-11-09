@@ -12,5 +12,3 @@ A place to see and track my habits and development from month to month. Visual r
 ### Week November 9 - November 13
 
 - Continuing Data Structures focused learning
-- Applying to Jobs
-- Code for KC meeting
