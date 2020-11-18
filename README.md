@@ -13,3 +13,6 @@ A place to see and track my habits and development from month to month. Visual r
 
 - Continuing Data Structures focused learning
 - Friday - Hackathon Kickoff! Jeopardy-like Tribute to Alex Trebek
+
+### Week November 16 - November 20
+- Hackathon Push to finish by Thursday. Will link when complete.
