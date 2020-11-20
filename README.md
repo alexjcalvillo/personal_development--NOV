@@ -15,4 +15,6 @@ A place to see and track my habits and development from month to month. Visual r
 - Friday - Hackathon Kickoff! Jeopardy-like Tribute to Alex Trebek
 
 ### Week November 16 - November 20
-- Hackathon Push to finish by Thursday. Will link when complete.
+- 🎉 Hackathon Push to finish by Thursday. Will link when complete.
+- 🎉 Attend Home for Wayward Techies Meetup!
+- 🎉 Mentor Group with Prime Digital Academy: Solo Projects and Time Management
