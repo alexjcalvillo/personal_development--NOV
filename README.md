@@ -18,3 +18,6 @@ A place to see and track my habits and development from month to month. Visual r
 - 🎉 Hackathon Push to finish by Thursday. Will link when complete.
 - 🎉 Attend Home for Wayward Techies Meetup!
 - 🎉 Mentor Group with Prime Digital Academy: Solo Projects and Time Management
+
+### Week November 23 - November 27
+- TypeScript/React and Redux/Saga with TypeScript Architecture
